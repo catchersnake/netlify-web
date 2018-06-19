@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://expertuser.netlify.com/post/weekly-dosages/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://expertuser.netlify.com/post/effects-tamifen/</loc>
+    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://expertuser.netlify.com/post/as-pills/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -84,13 +94,15 @@
   </url>
   
   <url>
-    <loc>https://expertuser.netlify.com/tags/aas-tabs/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <loc>https://expertuser.netlify.com/tags/aas-shots/</loc>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://expertuser.netlify.com/page/about/</loc>
+    <loc>https://expertuser.netlify.com/tags/aas-tabs/</loc>
+    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -105,19 +117,14 @@
   </url>
   
   <url>
-    <loc>https://expertuser.netlify.com/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://expertuser.netlify.com/tags/pct/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://expertuser.netlify.com/post/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -129,7 +136,7 @@
   
   <url>
     <loc>https://expertuser.netlify.com/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
